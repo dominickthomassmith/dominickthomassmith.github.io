@@ -19,3 +19,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   z-index: 996;
 }
+.links .a {
+  top: 10;
+  left: 10;
+}
