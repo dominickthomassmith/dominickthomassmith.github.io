@@ -1,4 +1,11 @@
 body {
-  background-color: #1e90ff;
+  background-color: dodgerblue;
   font-family: sans-serif;
+}
+p, a {
+  color: red;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: red;
+  text-align: center;
 }
